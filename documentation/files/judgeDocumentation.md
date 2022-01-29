@@ -1,12 +1,7 @@
- # Documentation
+ # Документация
 
-Documentation is generated based off of your git history using the
-<a href="https://github.com/GilmoreGigabytes/Template/blob/main/documentation/scripts/createJudgeDocumentation.ps1" target="_blank">powershell</a> and
-<a href="https://github.com/GilmoreGigabytes/Template/blob/main/documentation/scripts/createJudgeDocumentation.bash" target="_blank">
-bash</a> scripts in this repository.
+Документация создается на основе вашей истории git с использованием <a href="https://github.com/GilmoreGigabytes/TemplateRU/blob/main/documentation/scripts/createJudgeDocumentation.ps1 " target="_blank">PowerShell</a> и <a href="https://github.com/GilmoreGigabytes/TemplateRU/blob/main/documentation/scripts/createJudgeDocumentation.bash" targe="_blank">BASH</a> в этом репозитории.
 
-<br>
-
-**Note**:
-Running the script a second time will result in the documentation.md file being overwritten,
-so don't worry about deleting it. Just make sure it's up-to-date
+**Предупреждение**:
+Повторный запуск скрипта приведет к documentation.md файл перезаписывается,
+так что не беспокойтесь о его удалении. Просто убедитесь, что он обновлен
